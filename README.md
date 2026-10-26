@@ -18,12 +18,12 @@
 
 | 电脑 | 下载 | 说明 |
 |---|---|---|
-| Mac · Apple 芯片（M1 及以后） | [AndroidAdCleaner-0.2.3-mac-arm64.dmg](https://github.com/rddmwmddr/android-ad-cleaner/releases/download/v0.2.3/AndroidAdCleaner-0.2.3-mac-arm64.dmg) | 已签名、通过苹果公证，双击就能打开 |
-| Mac · Intel 芯片 | [AndroidAdCleaner-0.2.3-mac-intel.dmg](https://github.com/rddmwmddr/android-ad-cleaner/releases/download/v0.2.3/AndroidAdCleaner-0.2.3-mac-intel.dmg) | 同上 |
-| Windows 10 / 11 · 安装版 | [AndroidAdCleaner-0.2.3-windows-setup.exe](https://github.com/rddmwmddr/android-ad-cleaner/releases/download/v0.2.3/AndroidAdCleaner-0.2.3-windows-setup.exe) | 弹「Windows 已保护你的电脑」时点「更多信息」→「仍要运行」 |
-| Windows 10 / 11 · 免安装 | [AndroidAdCleaner-0.2.3-windows-portable.zip](https://github.com/rddmwmddr/android-ad-cleaner/releases/download/v0.2.3/AndroidAdCleaner-0.2.3-windows-portable.zip) | 解压后双击 `AndroidAdCleaner.exe` |
+| Mac · Apple 芯片（M1 及以后） | [AndroidAdCleaner-0.2.3-mac-arm64.dmg](https://github.com/WDHUS4G/android-ad-cleaner/releases/download/v0.2.3/AndroidAdCleaner-0.2.3-mac-arm64.dmg) | 已签名、通过苹果公证，双击就能打开 |
+| Mac · Intel 芯片 | [AndroidAdCleaner-0.2.3-mac-intel.dmg](https://github.com/WDHUS4G/android-ad-cleaner/releases/download/v0.2.3/AndroidAdCleaner-0.2.3-mac-intel.dmg) | 同上 |
+| Windows 10 / 11 · 安装版 | [AndroidAdCleaner-0.2.3-windows-setup.exe](https://github.com/WDHUS4G/android-ad-cleaner/releases/download/v0.2.3/AndroidAdCleaner-0.2.3-windows-setup.exe) | 弹「Windows 已保护你的电脑」时点「更多信息」→「仍要运行」 |
+| Windows 10 / 11 · 免安装 | [AndroidAdCleaner-0.2.3-windows-portable.zip](https://github.com/WDHUS4G/android-ad-cleaner/releases/download/v0.2.3/AndroidAdCleaner-0.2.3-windows-portable.zip) | 解压后双击 `AndroidAdCleaner.exe` |
 
-不知道 Mac 是哪种芯片：左上角苹果图标 → 关于本机，「芯片」写 Apple M 开头的选 Apple 芯片。所有版本：[Releases](https://github.com/rddmwmddr/android-ad-cleaner/releases)。用法：[docs/08-桌面客户端.md](docs/08-桌面客户端.md)。
+不知道 Mac 是哪种芯片：左上角苹果图标 → 关于本机，「芯片」写 Apple M 开头的选 Apple 芯片。所有版本：[Releases](https://github.com/WDHUS4G/android-ad-cleaner/releases)。用法：[docs/08-桌面客户端.md](docs/08-桌面客户端.md)。
 
 | | |
 |---|---|
@@ -80,7 +80,7 @@
 用法一的开场白，复制给 AI：
 
 ```text
-请克隆 https://github.com/rddmwmddr/android-ad-cleaner ，读仓库里的 AGENTS.md，
+请克隆 https://github.com/WDHUS4G/android-ad-cleaner ，读仓库里的 AGENTS.md，
 然后帮我给连着电脑的这台手机去广告。每一步改之前告诉我要改什么。
 ```
 
@@ -164,7 +164,7 @@ tests/               不连接手机的引擎回归测试
 
 ## 反馈
 
-遇到问题、想要新功能、希望支持你的手机，到 [Issues](https://github.com/rddmwmddr/android-ad-cleaner/issues/new/choose) 提交，选对应的模板。
+遇到问题、想要新功能、希望支持你的手机，到 [Issues](https://github.com/WDHUS4G/android-ad-cleaner/issues/new/choose) 提交，选对应的模板。
 
 用桌面客户端的话，点左下角「反馈问题」：会自动附上客户端版本、手机型号、系统版本和最近的日志（序列号已替换，不含应用列表和通知内容），打开 GitHub 页面后点提交即可。提交需要 GitHub 账号。
 
